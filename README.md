@@ -1,5 +1,6 @@
 # PesoArgentino
 Análisis de la variacion de la moneda Argentina respecto al Dolar norteamericano en el mercado oficial y paralelo
+
 API BCRA
 Enlace de la página: https://estadisticasbcra.com/
 Documentación: https://estadisticasbcra.com/api/documentacion
